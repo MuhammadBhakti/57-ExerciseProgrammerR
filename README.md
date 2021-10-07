@@ -1,9 +1,7 @@
 # Excercise for Programmer R
 ## **57 case for *R language*** 
 
-```Muhammad Bhakti Setiawan ```
-
-:indonesia:
+```Muhammad Bhakti Setiawan ``` :indonesia: **Indonesia**
 
 ```R version 4.1.1 (2021-08-10) -- "Kick Things"```
 
