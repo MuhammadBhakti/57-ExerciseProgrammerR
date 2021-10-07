@@ -1,5 +1,10 @@
 # Excercise for Programmer R
-## **57 case for *R language***
+## **57 case for *R language*** 
+
+```Muhammad Bhakti Setiawan ```
+
+:indonesia:
+
 ```R version 4.1.1 (2021-08-10) -- "Kick Things"```
 
 ![Source Book](https://user-images.githubusercontent.com/49467005/136321897-b4e29154-5021-4c40-8ccf-c485ec247adf.png)
@@ -113,3 +118,5 @@ End
 55. Text Sharing 
 56. Tracking Inventory 
 57. Trivia App 
+
+end
