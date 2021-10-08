@@ -3,7 +3,10 @@
 
 ```Muhammad Bhakti Setiawan ``` :indonesia: **Indonesia**
 
+
 ```R version 4.1.1 (2021-08-10) -- "Kick Things"```
+
+![image](https://user-images.githubusercontent.com/49467005/136495138-de4f0ad2-b13f-49ab-a687-959273406e75.png)
 
 ![Source Book](https://user-images.githubusercontent.com/49467005/136321897-b4e29154-5021-4c40-8ccf-c485ec247adf.png)
 
